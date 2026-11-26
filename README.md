@@ -33,3 +33,5 @@ No external mod dependencies
 No custom parts required
 
 KLP is designed to eliminate repetitive resource hauling without requiring players to abandon their existing infrastructure or install an entirely new resource production system.
+
+Side note: Its really cheaty right now. You could launch a probe and designate it as a station and be able to access the system.. but it wont always be that way. 
