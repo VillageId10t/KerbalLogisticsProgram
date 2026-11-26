@@ -1,4 +1,5 @@
 # KerbalLogisticsProgram
+¥¥ AI DISCLOSURE NOTICE: This was made with the help of generative AI. Methods include: Conversational ChatGPT ¥¥
 Lightweight, location-based resource logistics for Kerbal Space Program.
 
 Build your infrastructure. Leave the repetitive hauling behind.
